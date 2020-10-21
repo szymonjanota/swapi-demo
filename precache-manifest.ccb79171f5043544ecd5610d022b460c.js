@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f97242c83f843d959a6502061f8e89b",
+    "revision": "e82f326852babf5ebc04d30ccb8981cc",
     "url": "/swapi-demo/index.html"
   },
   {
-    "revision": "12c5f7de954eff2c568b",
+    "revision": "01e1e2cc33b0b5ca1d16",
     "url": "/swapi-demo/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "d7f229cf59a1ff2b2c42",
-    "url": "/swapi-demo/static/js/2.433078e4.chunk.js"
+    "revision": "a593b0b0658b219eb384",
+    "url": "/swapi-demo/static/js/2.cc044353.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/swapi-demo/static/js/2.433078e4.chunk.js.LICENSE.txt"
+    "url": "/swapi-demo/static/js/2.cc044353.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12c5f7de954eff2c568b",
-    "url": "/swapi-demo/static/js/main.6d6fc29a.chunk.js"
+    "revision": "01e1e2cc33b0b5ca1d16",
+    "url": "/swapi-demo/static/js/main.a1a8bd6e.chunk.js"
   },
   {
     "revision": "d90572c1df2a7e7cada6",
