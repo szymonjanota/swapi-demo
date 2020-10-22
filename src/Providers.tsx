@@ -36,10 +36,10 @@ export const Providers: React.FC = ({ children }) => {
 
   return (
     <StylesProvider injectFirst>
-      <CssBaseline />
-      <GlobalStyle />
       <ThemeProvider theme={muiTheme}>
         <ReactQueryCacheProvider queryCache={queryCache}>
+          <CssBaseline />
+          <GlobalStyle />
           {children}
         </ReactQueryCacheProvider>
       </ThemeProvider>
